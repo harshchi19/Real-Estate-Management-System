@@ -1,4 +1,4 @@
-# Real Estate Price Prediction - CampusX
+# Real Estate Price Prediction 
 
 ### Features
 
